@@ -36,7 +36,7 @@ Durante o Global AI Bootcamp 2018 - Rio de Janeiro, estão previstas palestras &
   * 15:50 às 16h - Sorteios, Brindes & Encerramento
 
 
-## Sobre a Oficina: Desenvolva ChatBot com Node.Js + LUIS & Azure: :star:
+## Sobre a Oficina: Desenvolva ChatBot com Node.Js + LUIS & Azure: :cloud:
 
 Na parte da tarde, haverá uma Oficina com a **[Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/)**, onde a mesma ensinará passo a passo como desenvolver um ChatBot com Node.js, usando o serviço cognitivo da Microsoft **LUIS**. E no final do desenvolvimento teremos um ChatBot publicado na plataforma do Azure e nos principais canais, como: Slack, Telegram, Skype, entre outros.
 
@@ -51,15 +51,16 @@ Basta acessar o link ao lado **[AQUI](https://www.meetup.com/pt-BR/Coders-in-Rio
 
 p.s.: vagas limitadas a 60 pessoas. (no dia do evento trazer: Identidade e CPF)
 
+
 ## Localização do Evento: :pushpin:
 
-O evento Global AI Bootcampo 2018, será realizado na **Zoox Smart Data[https://zooxsmart.com/pt-br/]** que fica localizado no endereço: Av. Embaixador Abelardo Bueno, 1023 - Barra da Tijuca, Rio de Janeiro
+O evento Global AI Bootcampo 2018, será realizado na **[Zoox Smart Data](https://zooxsmart.com/pt-br/)** que fica localizado no endereço: Av. Embaixador Abelardo Bueno, 1023 - Barra da Tijuca, Rio de Janeiro
 
 Ponto de Referência: próximo ao BRT Rede Sarah e Hotel Ibis Riocentro.
 
 Caso tenham dúvidas em como chegar no local, podem abrir uma ISSUE **[AQUI](https://github.com/glaucia86/global-ai-bootcamp-rj/issues)**
 
-## Chamada para Call 4 Pappers! Venha Palestrar!!
+## Chamada para Call 4 Pappers! Venha Palestrar!! :star:
 
 Estamos com C4P abertas para o evento até o dia 10/12 às 23h:59min. Caso tenha o interesse em palestrar no Global AI Bootcamp Rio de Janeiro, não se hesite em se inscrever **[AQUI]()**
 
