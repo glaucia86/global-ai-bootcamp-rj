@@ -32,7 +32,7 @@ Durante o Global AI Bootcamp 2018 - Rio de Janeiro, estão previstas palestras &
   * 11:20 às 12:00 - Palestra: DIVULGAÇÃO EM BREVE
   
 - **Na parte da Tarde: 13h às 15:45h**
-  * 13h às 15:45 - Oficina: **[Glaucia Lemos]**(https://www.linkedin.com/in/glaucialemos/): Desenvolva ChatBot com Node.Js + LUIZ & Azure 
+  * 13h às 15:45 - Oficina: **[Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/)**: Desenvolva ChatBot com Node.Js + LUIZ & Azure 
   * 15:50 às 16h - Sorteios, Brindes & Encerramento
 
 
@@ -47,7 +47,7 @@ p.s.: Estaremos ensinando a desenvolver um ChatBot na versão 3 do Microsoft Bot
 
 ## Inscrições para Global AI Bootcamp 2018 - Rio de Janeiro :running:
 
-Basta acessar o link ao lado **[AQUI](https://www.meetup.com/pt-BR/Coders-in-Rio/events/256790804/)**
+Bastam acessar o link ao lado **[AQUI](https://www.meetup.com/pt-BR/Coders-in-Rio/events/256790804/)**
 
 p.s.: vagas limitadas a 60 pessoas. (no dia do evento trazer: Identidade e CPF)
 
