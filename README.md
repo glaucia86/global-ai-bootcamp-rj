@@ -1,4 +1,4 @@
-# Global AI Bootcamp 2018 - Rio de Janeiro by (Coders in Rio & MS Infra Rio)
+# Global AI Bootcamp 2018 - Rio de Janeiro
 
 ![alt text](https://i.imgsafe.org/f2/f26e63e9d2.png)
 
