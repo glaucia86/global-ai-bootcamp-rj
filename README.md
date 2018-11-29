@@ -17,7 +17,7 @@ Mergulhe e aprenda como implementar Inteligência Artificial em suas soluções 
 
 Durante este Bootcamp da IA, você se assistirá inúmeras palestras e claro muitos Hands On durante as oficinas. No final do dia, você será capaz de desenvolver e inserir o IA em seus aplicativos.
 
-Venham participar!!!
+Venham participar!!! :heart: :heart: :heart:
 
 
 ## Grade de Palestras & Oficinas: :computer:
@@ -25,15 +25,24 @@ Venham participar!!!
 Durante o Global AI Bootcamp 2018 - Rio de Janeiro, estão previstas palestras & realização de uma oficina na parte da tarde. Confiram a grade de programação **(em desenvolvimento)**:
 
 - **Na parte da Manhã: 9h às 12h**
-  * 9h às 9:15 - Abertura do Evento
-  * 9:20 às 10:00 - Palestra: **[Rafael Cruz](https://www.linkedin.com/in/rafaelcruzmvp/)**: (MAIS INFOS - EM BREVE)
-  * 10:00 às 10:40 - Palestra: DIVULGAÇÃO EM BREVE
-  * 10:40 às 11:20 - Palestra: DIVULGAÇÃO EM BREVE 
-  * 11:20 às 12:00 - Palestra: DIVULGAÇÃO EM BREVE
+------------------------------------------------------------
+Horário | Tipo | Palestrante  | Tema
+------------ | ------------- | ------------- | -------------
+9h às 9:15 | Abertura do Evento |
+9:20 às 10:00 | Palestra | **[Rafael Cruz](https://www.linkedin.com/in/rafaelcruzmvp/)** | DIVULGAÇÃO EM BREVE
+10:00 às 10:40 | Palestra | DIVULGAÇÃO EM BREVE| DIVULGAÇÃO EM BREVE
+10:40 às 11:20 | Palestra | DIVULGAÇÃO EM BREVE| DIVULGAÇÃO EM BREVE
+11:20 às 12:00 | Palestra | DIVULGAÇÃO EM BREVE| DIVULGAÇÃO EM BREVE
+
   
 - **Na parte da Tarde: 13h às 15:45h**
-  * 13h às 15:45 - Oficina: **[Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/)**: Desenvolva ChatBot com Node.Js + LUIZ & Azure 
-  * 15:50 às 16h - Sorteios, Brindes & Encerramento
+
+------------------------------------------------------------
+Horário | Tipo | Palestrante  | Tema
+------------ | ------------- | ------------- | -------------
+13h às 15:45 | Oficina | **[Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/)** | Desenvolva ChatBot com Node.Js + LUIZ & Azure 
+15:50 às 16h | Sorteios, Brindes & Encerramento
+
 
 
 ## Sobre a Oficina: Desenvolva ChatBot com Node.Js + LUIS & Azure: :cloud:
@@ -42,7 +51,7 @@ Na parte da tarde, haverá uma Oficina com a **[Glaucia Lemos](https://www.linke
 
 Para que seja satisfatório a participação da Oficina, pedimos que antecipadamente já preparem os seus ambientes de desenvolvimento e assistam as aulas sobre ChatBots, preparado pela Glaucia Lemos **[AQUI](https://github.com/glaucia86/hands-on-bots-node)**
 
-p.s.: Estaremos ensinando a desenvolver um ChatBot na versão 3 do Microsoft Bot Framework. Assim sendo, baixem o Emulador do v.3 :smirk:
+> p.s.: Estaremos ensinando a desenvolver um ChatBot na versão 3 do Microsoft Bot Framework. Assim sendo, baixem o Emulador do v.3 :smirk:
 
 
 ## Inscrições para Global AI Bootcamp 2018 - Rio de Janeiro :running:
