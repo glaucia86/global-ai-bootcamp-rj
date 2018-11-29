@@ -71,7 +71,7 @@ Caso tenham dúvidas em como chegar no local, podem abrir uma ISSUE **[AQUI](htt
 
 ## Chamada para Call 4 Pappers! Venha Palestrar!! :star:
 
-Estamos com C4P abertas para o evento até o dia 10/12 às 23h:59min. Caso tenha o interesse em palestrar no Global AI Bootcamp Rio de Janeiro, não se hesite em se inscrever **[AQUI]()**
+Estamos com C4P abertas para o evento até o dia 10/12 às 23h:59min. Caso tenha o interesse em palestrar no Global AI Bootcamp Rio de Janeiro, não se hesite em se inscrever **[AQUI](https://glaucialemos1.typeform.com/to/lQYTNo)**
 
 
 <p align="center">
