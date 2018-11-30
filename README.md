@@ -7,15 +7,15 @@ Repositório responsável pelos acervos, informações, códigos desenvolvidos e
 
 ## Informações sobre o Evento: :page_facing_up:
 
-O Global AI Bootcamp é um evento gratuito durante todo o dia e organizado por comunidades locais de todo o mundo que são apaixonados por Inteligência Artificial relacionados aos produtos da Microsoft.
+O Global AI Bootcamp é um evento gratuito que ocorrerá durante todo o dia e organizado por comunidades locais de todo o mundo que são apaixonados por Inteligência Artificial relacionados aos produtos da Microsoft.
 
-O evento acontece no dia 15 de Dezembro em locais espalhados pelo mundo com apoio da Microsoft. O evento é o equilíbrio perfeito entre conteúdo de qualidade, palestras impressionantes, muitos Hands On para aprender e compartilhar com outros membros da comunidade.
+O evento acontecerá no dia 15 de Dezembro em vários locais espalhados pelo mundo com apoio da Microsoft. O evento é o equilíbrio perfeito entre conteúdo de qualidade, palestras impressionantes, muitos Hands On para aprender e compartilhar com outros membros da comunidade.
 
 #### Inteligência Artificial:
 
-Mergulhe e aprenda como implementar Inteligência Artificial em suas soluções com a plataforma de IA da Microsoft incluindo serviços de IA pré-treinados como: Cognitive Services, Bot Framework, bem como ferramentas de aprendizado profundo com Cognitive Services e Bot Framework, bem como ferramentas de aprendizado profundo como Azure Machine Learning, Visual Studio Code Tools para IA, e o Cognitive Toolkit.
+Mergulhe e aprenda como implementar Inteligência Artificial em suas soluções com a plataforma de IA da Microsoft incluindo serviços de IA pré-treinados como: Serviços Cognitivos, Bot Framework, bem como ferramentas de aprendizado profundo como Azure Machine Learning, Visual Studio Code Tools para IA, e o Toolkit Cognitivo.
 
-Durante este Bootcamp da IA, você se assistirá inúmeras palestras e claro muitos Hands On durante as oficinas. No final do dia, você será capaz de desenvolver e inserir o IA em seus aplicativos.
+Durante este Bootcamp da IA, você assistirá inúmeras palestras e claro muitos Hands On durante as oficinas. No final do dia, você será capaz de desenvolver e inserir o IA em seus aplicativos.
 
 Venham participar!!! :heart: :heart: :heart:
 
