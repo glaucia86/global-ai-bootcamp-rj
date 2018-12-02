@@ -17,7 +17,7 @@ Mergulhe e aprenda como implementar Inteligência Artificial em suas soluções 
 
 Durante este Bootcamp da IA, você assistirá inúmeras palestras e claro muitos Hands On durante as oficinas. No final do dia, você será capaz de desenvolver e inserir o IA em seus aplicativos.
 
-Venham participar!!! :heart: :heart: :heart:
+Venham participar!!! :heart: :heart: :heart: :heart:
 
 
 ## Grade de Palestras & Oficinas: :computer:
