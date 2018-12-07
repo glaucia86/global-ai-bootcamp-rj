@@ -39,15 +39,6 @@ Horário | Tipo | Palestrante  | Tema
 21:00 às 21:30 | Networking & Happy Hour
 
 
-## Sobre a Oficina: Desenvolva ChatBot com Node.Js + LUIS & Azure: :cloud:
-
-Na parte da tarde, haverá uma Oficina com a **[Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/)**, onde a mesma ensinará passo a passo como desenvolver um ChatBot com Node.js, usando o serviço cognitivo da Microsoft **LUIS**. E no final do desenvolvimento teremos um ChatBot publicado na plataforma do Azure e nos principais canais, como: Slack, Telegram, Skype, entre outros.
-
-Para que seja satisfatório a participação da Oficina, pedimos que antecipadamente já preparem os seus ambientes de desenvolvimento e assistam as aulas sobre ChatBots, preparado pela Glaucia Lemos **[AQUI](https://github.com/glaucia86/hands-on-bots-node)**
-
-> p.s.: Estaremos ensinando a desenvolver um ChatBot na versão 3 do Microsoft Bot Framework. Assim sendo, baixem o Emulador do v.3 :smirk:
-
-
 ## Inscrições para Global AI Bootcamp 2018 - Rio de Janeiro :running:
 
 Bastam acessar o link ao lado **[AQUI](https://www.meetup.com/pt-BR/Coders-in-Rio/events/256790804/)**
@@ -63,16 +54,10 @@ Ponto de Referência: próximo ao BRT Rede Sarah e Hotel Ibis Riocentro.
 
 Caso tenham dúvidas em como chegar no local, podem abrir uma ISSUE **[AQUI](https://github.com/glaucia86/global-ai-bootcamp-rj/issues)**
 
-## Chamada para Call 4 Pappers! Venha Palestrar!! :star:
-
-Estamos com C4P abertas para o evento até o dia 15/12 às 23h:59min. Caso tenha o interesse em palestrar no Global AI Bootcamp Rio de Janeiro, não se hesite em se inscrever **[AQUI](https://glaucialemos1.typeform.com/to/lQYTNo)**
-
 
 <p align="center">
   <img src="https://i.imgur.com/dLSzYDT.gif"/>  
 </p>
-
-
 
 
 
