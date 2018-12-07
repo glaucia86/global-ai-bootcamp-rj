@@ -9,7 +9,7 @@ Repositório responsável pelos acervos, informações, códigos desenvolvidos e
 
 O Global AI Bootcamp é um evento gratuito que ocorrerá durante todo o dia e organizado por comunidades locais de todo o mundo que são apaixonados por Inteligência Artificial relacionados aos produtos da Microsoft.
 
-O evento acontecerá no dia 15 de Dezembro em vários locais espalhados pelo mundo com apoio da Microsoft. O evento é o equilíbrio perfeito entre conteúdo de qualidade, palestras impressionantes, muitos Hands On para aprender e compartilhar com outros membros da comunidade.
+O evento, no Rio de Janeiro, acontecerá no dia 20 de Dezembro. O evento é o equilíbrio perfeito entre conteúdo de qualidade, palestras impressionantes, muitos Hands On para aprender e compartilhar com outros membros da comunidade.
 
 #### Inteligência Artificial:
 
@@ -22,27 +22,21 @@ Venham participar!!! :heart: :heart: :heart: :heart:
 
 ## Grade de Palestras & Oficinas: :computer:
 
-Durante o Global AI Bootcamp 2018 - Rio de Janeiro, estão previstas palestras & realização de uma oficina na parte da tarde. Confiram a grade de programação **(em desenvolvimento)**:
+Durante o Global AI Bootcamp 2018 - Rio de Janeiro, estão previstas várias palestras. Confiram a grade de programação **(em desenvolvimento)**:
 
-- **Na parte da Manhã: 9h às 12h**
+- **À noite**
 ------------------------------------------------------------
 Horário | Tipo | Palestrante  | Tema
 ------------ | ------------- | ------------- | -------------
-9h às 9:15 | Abertura do Evento |
-9:20 às 10:00 | Palestra | **[Rafael Cruz](https://www.linkedin.com/in/rafaelcruzmvp/)** | DIVULGAÇÃO EM BREVE
-10:00 às 10:40 | Palestra | DIVULGAÇÃO EM BREVE| DIVULGAÇÃO EM BREVE
-10:40 às 11:20 | Palestra | DIVULGAÇÃO EM BREVE| DIVULGAÇÃO EM BREVE
-11:20 às 12:00 | Palestra | DIVULGAÇÃO EM BREVE| DIVULGAÇÃO EM BREVE
-
-  
-- **Na parte da Tarde: 13h às 15:45h**
-
-------------------------------------------------------------
-Horário | Tipo | Palestrante  | Tema
------------- | ------------- | ------------- | -------------
-13h às 15:45 | Oficina | **[Glaucia Lemos](https://www.linkedin.com/in/glaucialemos/)** | Desenvolva ChatBot com Node.Js + LUIZ & Azure 
-15:50 às 16h | Sorteios, Brindes & Encerramento
-
+18:00 às 18:15 | Credenciamento & Abertura do Evento |
+18:15 às 18:30 | Abertura do Evento| **[Glauter Jannuzzi](http://bit.ly/2PrcMoP)** - Microsoft MVP Lead LATAM + AI Relations
+18:30 às 19:00 | Palestra | **[Glaucia Lemos](http://bit.ly/2BYU5p9)** - Software Developer & Microsoft MVP | Desenvolva ChatBot com Node.Js + LUIS & Azure
+19:00 às 19:30 | Palestra | **[Claudio Bonel](bit.ly/2B2XS2Y)**| DIVULGAÇÃO EM BREVE
+19:35 às 19:45 | Coffee Break | 
+19:50 às 20:10 | Palestra | **[Fernando Andreazi](http://bit.ly/2SxMUty)** - Modern Workplace Solution Executive, Microsoft  | Como o Microsoft Teams Incorpora Inteligência Artificial na Colaboração de Usuários
+20:15 às 20:45 | Palestra | **[Rafael Cruz](http://bit.ly/2BXqpIX)** - Software Developer & Microsoft MVP | DIVULGAÇÃO EM BREVE
+20:45 às 21:00 | Sorteios, Brindes & Encerramento
+21:00 às 21:30 | Networking & Happy Hour
 
 
 ## Sobre a Oficina: Desenvolva ChatBot com Node.Js + LUIS & Azure: :cloud:
@@ -71,7 +65,7 @@ Caso tenham dúvidas em como chegar no local, podem abrir uma ISSUE **[AQUI](htt
 
 ## Chamada para Call 4 Pappers! Venha Palestrar!! :star:
 
-Estamos com C4P abertas para o evento até o dia 10/12 às 23h:59min. Caso tenha o interesse em palestrar no Global AI Bootcamp Rio de Janeiro, não se hesite em se inscrever **[AQUI](https://glaucialemos1.typeform.com/to/lQYTNo)**
+Estamos com C4P abertas para o evento até o dia 15/12 às 23h:59min. Caso tenha o interesse em palestrar no Global AI Bootcamp Rio de Janeiro, não se hesite em se inscrever **[AQUI](https://glaucialemos1.typeform.com/to/lQYTNo)**
 
 
 <p align="center">
