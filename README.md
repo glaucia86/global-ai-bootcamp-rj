@@ -28,7 +28,7 @@ Durante o Global AI Bootcamp 2018 - Rio de Janeiro, estão previstas várias pal
 ------------------------------------------------------------
 Horário | Tipo | Palestrante  | Tema
 ------------ | ------------- | ------------- | -------------
-18:00 às 18:15 | Credenciamento & Abertura do Evento |
+18:00 às 18:15 | Credenciamento  
 18:15 às 18:30 | Abertura do Evento| **[Glauter Jannuzzi](http://bit.ly/2PrcMoP)** - Microsoft MVP Lead LATAM + AI Relations
 18:30 às 19:00 | Palestra | **[Glaucia Lemos](http://bit.ly/2BYU5p9)** - Software Developer & Microsoft MVP | Desenvolva ChatBot com Node.Js + LUIS & Azure
 19:00 às 19:30 | Palestra | **[Claudio Bonel](bit.ly/2B2XS2Y)**| DIVULGAÇÃO EM BREVE
