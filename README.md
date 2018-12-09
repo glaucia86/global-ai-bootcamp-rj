@@ -22,7 +22,7 @@ Venham participar!!! :heart: :heart: :heart: :heart:
 
 ## Grade de Palestras & Oficinas: :computer:
 
-Durante o Global AI Bootcamp 2018 - Rio de Janeiro, estão previstas várias palestras. Confiram a grade de programação **(em desenvolvimento)**:
+Durante o Global AI Bootcamp 2018 - Rio de Janeiro no dia 20/12/2018, estão previstas várias palestras. Confiram a grade de programação **(em desenvolvimento)**:
 
 - **À noite**
 ------------------------------------------------------------
