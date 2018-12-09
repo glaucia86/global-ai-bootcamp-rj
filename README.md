@@ -34,7 +34,7 @@ Horário | Tipo | Palestrante  | Tema
 19:00 às 19:30 | Palestra | **[Claudio Bonel](bit.ly/2B2XS2Y)**| DIVULGAÇÃO EM BREVE
 19:35 às 19:45 | Coffee Break | 
 19:50 às 20:10 | Palestra | **[Fernando Andreazi](http://bit.ly/2SxMUty)** - Modern Workplace Solution Executive, Microsoft  | Como o Microsoft Teams Incorpora Inteligência Artificial na Colaboração de Usuários
-20:15 às 20:45 | Palestra | **[Rafael Cruz](http://bit.ly/2BXqpIX)** - Software Developer & Microsoft MVP | DIVULGAÇÃO EM BREVE
+20:15 às 20:45 | Palestra | **[Rafael Cruz](http://bit.ly/2BXqpIX)** - Software Developer & Microsoft MVP | Reconhecendo Imagens com Face API
 20:45 às 21:00 | Sorteios, Brindes & Encerramento
 21:00 às 21:30 | Networking & Happy Hour
 
