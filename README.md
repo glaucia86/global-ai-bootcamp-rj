@@ -31,7 +31,7 @@ Horário | Tipo | Palestrante  | Tema
 18:00 às 18:15 | Credenciamento  
 18:15 às 18:30 | Abertura do Evento| **[Glauter Jannuzzi](http://bit.ly/2PrcMoP)** - Microsoft MVP Lead LATAM + AI Relations
 18:30 às 19:00 | Palestra | **[Glaucia Lemos](http://bit.ly/2BYU5p9)** - Software Developer & Microsoft MVP | Desenvolva ChatBots com Node.Js + LUIS & Azure
-19:00 às 19:30 | Palestra | **[Claudio Bonel](bit.ly/2B2XS2Y)**| DIVULGAÇÃO EM BREVE
+19:00 às 19:30 | Palestra | **[Claudio Bonel](bit.ly/2B2XS2Y)** - Especialista em B.I & Microsoft MVP| Análise de sentimento em textos, usando Power BI e Azure Cognitive Services
 19:35 às 19:45 | Coffee Break | 
 19:50 às 20:10 | Palestra | **[Fernando Andreazi](http://bit.ly/2SxMUty)** - Modern Workplace Solution Executive, Microsoft  | Como o Microsoft Teams Incorpora Inteligência Artificial na Colaboração de Usuários
 20:15 às 20:45 | Palestra | **[Rafael Cruz](http://bit.ly/2BXqpIX)** - Software Developer Icatu Hartford & Microsoft MVP | Reconhecendo Imagens com Face API
