@@ -48,7 +48,7 @@ p.s.: vagas limitadas a 60 pessoas. (no dia do evento trazer: Identidade e CPF)
 
 ## Localização do Evento: :pushpin:
 
-O evento Global AI Bootcampo 2018, será realizado na **[Zoox Smart Data](https://zooxsmart.com/pt-br/)** que fica localizado no endereço: Av. Embaixador Abelardo Bueno, 1023 - Barra da Tijuca, Rio de Janeiro
+O evento Global AI Bootcampo 2018 - 20/12/2018 a partir das 18:1 e será realizado na **[Zoox Smart Data](https://zooxsmart.com/pt-br/)** que fica localizado no endereço: **Av. Embaixador Abelardo Bueno, 1023 - Barra da Tijuca, Rio de Janeiro**
 
 Ponto de Referência: próximo ao BRT Rede Sarah e Hotel Ibis Riocentro.
 
