@@ -29,7 +29,7 @@ Durante o Global AI Bootcamp 2018 - Rio de Janeiro no dia 20/12/2018, estão pre
 Horário | Tipo | Palestrante  | Tema
 ------------ | ------------- | ------------- | -------------
 18:00 às 18:15 | Credenciamento  
-18:15 às 18:30 | Abertura do Evento| **Igor Maia & Renata Renata Sant'Angelo** | Briefing sobre a Zoox Smart Data
+18:15 às 18:30 | Abertura do Evento| **Igor Maia & Renata Sant'Angelo** | Briefing sobre a Zoox Smart Data
 18:30 às 19:00 | Palestra | **[Glaucia Lemos](http://bit.ly/2BYU5p9)** - Software Developer & Microsoft MVP | Desenvolva ChatBots com Node.Js + LUIS & Azure
 19:00 às 19:30 | Palestra | **[Claudio Bonel](bit.ly/2B2XS2Y)** - Especialista em B.I & Microsoft MVP| Análise de Sentimento em Textos Usando Power BI & Azure Cognitive Services
 19:35 às 19:45 | Coffee Break | 
