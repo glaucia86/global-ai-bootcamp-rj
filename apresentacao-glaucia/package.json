@@ -1,5 +1,5 @@
 {
-  "name": "demos-mvpconf2018",
+  "name": "global-ai-bootcamp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/glaucia86/demos-mvp-conf.git"
+    "url": "https://github.com/glaucia86/global-ai-bootcamp-rj.git"
   },
   "keywords": [
     "botbuilder",
@@ -21,9 +21,9 @@
   "author": "Glaucia Lemos",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/glaucia86/demos-mvp-conf/issues"
+    "url": "https://github.com/glaucia86/global-ai-bootcamp-rj/issues"
   },
-  "homepage": "https://github.com/glaucia86/demos-mvp-conf/blob/master/README.md",
+  "homepage": "https://github.com/glaucia86/global-ai-bootcamp-rj/blob/master/README.md",
   "dependencies": {
     "botbuilder": "^3.14.0",
     "dotenv-extended": "^2.0.1",

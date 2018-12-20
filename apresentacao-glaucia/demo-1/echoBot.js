@@ -1,7 +1,7 @@
 /**
  * 
  * Arquivo: echoBot.js
- * Data: 09/06/2018
+ * Data: 20/12/2018
  * Descrição: Desenvolvimento de um Bot via Bot Emulator.
  * Author: Glaucia Lemos
  *
